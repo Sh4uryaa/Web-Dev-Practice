@@ -1,0 +1,6 @@
+Remove-Item -Recurse -Force "Diffchecker"*.zip
+dist/
+.dist/
+node_modules/
+.env
+*.log
